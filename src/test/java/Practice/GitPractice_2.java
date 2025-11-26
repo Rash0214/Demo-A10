@@ -2,8 +2,6 @@ package Practice;
 
 import org.testng.annotations.Test;
 
-
-
 public class GitPractice_2 {
 	@Test
 	public void m2() {
@@ -12,6 +10,7 @@ public class GitPractice_2 {
 		System.out.println("pushing through Automation Test Engineer");
 		
 		
+		System.out.println("pushing through Framework engineer");
 	}
 
 }
